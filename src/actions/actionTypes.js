@@ -1,0 +1,2 @@
+export const ON_LOAD_EQUIPMENT = "ON_LOAD_EQUIPMENT";
+export const ON_LOAD_DEVICES = "ON_LOAD_DEVICES";

@@ -1,0 +1,124 @@
+{
+	"devices": [
+		{
+			"id": 1000002,
+			"EquipmentName": "Equipment A",
+			"Vendor": "ABC Devices",
+			"Location": "Bangalore",
+			"Model": "ABC 123",
+			"Serial": "ABC1000002",
+			"Image": "thumbnail.png",
+			"Description": "Equipment A Equipment A Equipment A"
+		},
+		{
+			"id": 1000003,
+			"EquipmentName": "Equipment B",
+			"Vendor": "ABC Devices",
+			"Location": "Bangalore",
+			"Model": "ABC 123",
+			"Serial": "ABC1000002",
+			"Image": "thumbnail.png",
+			"Description": "Equipment A Equipment A Equipment A"
+		},
+		{
+			"id": 1000004,
+			"EquipmentName": "Equipment C",
+			"Vendor": "ABC Devices",
+			"Location": "Bangalore",
+			"Model": "ABC 123",
+			"Serial": "ABC1000002",
+			"Image": "thumbnail.png",
+			"Description": "Equipment A Equipment A Equipment A"
+		},
+		{
+			"id": 1000005,
+			"EquipmentName": "Equipment D",
+			"Vendor": "ABC Devices",
+			"Location": "Bangalore",
+			"Model": "ABC 123",
+			"Serial": "ABC1000002",
+			"Image": "thumbnail.png",
+			"Description": "Equipment A Equipment A Equipment A"
+		},
+		{
+			"id": 1000006,
+			"EquipmentName": "Equipment E",
+			"Vendor": "ABC Devices",
+			"Location": "Bangalore",
+			"Model": "ABC 123",
+			"Serial": "ABC1000002",
+			"Image": "thumbnail.png",
+			"Description": "Equipment A Equipment A Equipment A"
+		},
+		{
+			"id": 1000007,
+			"EquipmentName": "Equipment F",
+			"Vendor": "ABC Devices",
+			"Location": "Bangalore",
+			"Model": "ABC 123",
+			"Serial": "ABC1000002",
+			"Image": "thumbnail.png",
+			"Description": "Equipment A Equipment A Equipment A"
+		},
+		{
+			"id": 1000008,
+			"EquipmentName": "Equipment G",
+			"Vendor": "ABC Devices",
+			"Location": "Bangalore",
+			"Model": "ABC 123",
+			"Serial": "ABC1000002",
+			"Image": "thumbnail.png",
+			"Description": "Equipment A Equipment A Equipment A"
+		},
+		{
+			"id": 1000009,
+			"EquipmentName": "Equipment H",
+			"Vendor": "ABC Devices",
+			"Location": "Bangalore",
+			"Model": "ABC 123",
+			"Serial": "ABC1000002",
+			"Image": "thumbnail.png",
+			"Description": "Equipment A Equipment A Equipment A"
+		},
+		{
+			"id": 10000010,
+			"EquipmentName": "Equipment I",
+			"Vendor": "ABC Devices",
+			"Location": "Bangalore",
+			"Model": "ABC 123",
+			"Serial": "ABC1000002",
+			"Image": "thumbnail.png",
+			"Description": "Equipment A Equipment A Equipment A"
+		},
+		{
+			"id": 10000011,
+			"EquipmentName": "Equipment J",
+			"Vendor": "ABC Devices",
+			"Location": "Bangalore",
+			"Model": "ABC 123",
+			"Serial": "ABC1000002",
+			"Image": "thumbnail.png",
+			"Description": "Equipment A Equipment A Equipment A"
+		},
+		{
+			"id": 10000012,
+			"EquipmentName": "Equipment K",
+			"Vendor": "ABC Devices",
+			"Location": "Bangalore",
+			"Model": "ABC 123",
+			"Serial": "ABC1000002",
+			"Image": "thumbnail.png",
+			"Description": "Equipment A Equipment A Equipment A"
+		},
+		{
+			"id": 10000013,
+			"EquipmentName": "Equipment L",
+			"Vendor": "ABC Devices",
+			"Location": "Bangalore",
+			"Model": "ABC 123",
+			"Serial": "ABC1000002",
+			"Image": "thumbnail.png",
+			"Description": "Equipment A Equipment A Equipment A"
+		}
+	]
+}
